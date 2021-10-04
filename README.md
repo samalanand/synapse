@@ -1,2 +1,2 @@
-# synapse
+# Synapse
 Taming Azure Synapse
