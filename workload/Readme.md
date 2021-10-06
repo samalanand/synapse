@@ -6,7 +6,7 @@ While it fits the needs of a modern data warehouse, it gives a challenge to the 
 
 This is not to say that a Dedicated poll cannot be moved between Service levels - it absolutely can, but you need to be prepared for cost implications for every increase ranging between $1 per hour to $360 per hr. This equates to a huge difference of $1000 to $400,000 for a pool running a month and results in very unpredictable costs for an organization.
 
-This article brings together the relevant information from Microsoft documentation into a toolkit for you as a Data Architect to assist with during Azure Synapse Workload management decision making. There are two components to this toolkit.
+This article brings together the relevant information from Microsoft documentation into a toolkit for you as a Data Architect to assist with during Azure Synapse Workload management decision making. There are two components to this toolkit (Synapse Service levels and workload visualizer.xlsx).
 1.  Service level matrix - provides a combined view of all performance metrics for each service level
 2.  Workload visualizer - visual simulation to help find the service level for the workload requirements
 
